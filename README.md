@@ -13,7 +13,7 @@ OldModz95
 <br>
 
 ### Bot Discord Troll Vocal By OldModz95 Proposed By ProtonDev
--This bot allows to follow the user by voice and as soon as he speaks, the bot speaks with the mp3 file.
+-This bot allows to follow the user by voice and as soon as he speaks, the bot speaks with the mp3 file.<br>
 -Ce bot permet de suivre l'utilisateur en vocal et des qu'il parle, le bot parle avec le fichier mp3.
 <br><br>
 
